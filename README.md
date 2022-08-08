@@ -15,6 +15,8 @@
 
 Ссылку с результатом проверки отправьте на почту [konstantin.teryohin@rubius.com](konstantin.teryohin@rubius.com) с заголовком **Фамилия Имя - тестовое задание**
 
+Полезная информация [https://www.notion.so/455a9dca34634276a0233f57abdc816a](https://www.notion.so/455a9dca34634276a0233f57abdc816a)
+
 ### Задание для студента
 
 - Вёрстка шапки
