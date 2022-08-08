@@ -14,7 +14,7 @@
 
 Ссылку с результатом проверки отправьте на почту [konstantin.teryohin@rubius.com](konstantin.teryohin@rubius.com) с заголовком **Фамилия Имя - тестовое задание**
 
-#### Задание для студента
+### Задание для студента
 
 - Вёрстка шапки
 ![image](https://user-images.githubusercontent.com/12005449/183345785-accae786-8897-4d4e-8b58-8b377514b9e8.png)
